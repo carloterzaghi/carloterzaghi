@@ -5,7 +5,7 @@
 </a>
 
 <p align="justify"> 
-  Meu nome é Carlo Terzaghi Tuck Schneider, estudante de <strong> Engenharia de Controle e Automação </strong> no <strong> Instituto Mauá de Tecnologia</strong>. Mexo com programação desdos meus 16 anos, sendo a linguagem <strong> Python </strong> uma que mais usei.
+  Meu nome é Carlo Terzaghi Tuck Schneider, estudante de <strong> Engenharia de Controle e Automação </strong> no <strong> Instituto Mauá de Tecnologia</strong>. Adoro mexer com programação desdos meus 16 anos, sendo a linguagem <strong> Python </strong> uma das que mais utilizei no meu progremsso.
 </p>
 
 <p align="left">
