@@ -1,7 +1,7 @@
 <h1> Good Morning 👋 <h1>
 
 <a href="https://www.flaticon.com/free-icon/coding_1802977">
-         <img src="https://raw.githubusercontent.com/carloterzaghi/carloterzaghi/main/tela.png" min-width="360px" max-width="360px" width="400px"           align="right" alt="Tela">
+         <img src="https://raw.githubusercontent.com/carloterzaghi/carloterzaghi/main/aba.png" min-width="360px" max-width="360px" width="400px"           align="right" alt="Tela">
 </a>
 
 <!--
