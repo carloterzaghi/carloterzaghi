@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
- 👨‍💻 Habilidades: <strong> Python, HTML, CSS, Dart, Flutter, C </strong>
+ 👨‍💻 Habilidades: <strong> Python, HTML, CSS, Dart, Flutter, C, C++ </strong>
 </p>
 
 <p align="left">
