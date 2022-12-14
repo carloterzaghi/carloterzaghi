@@ -1,20 +1,35 @@
-<h1> Good Morning 👋 <h1>
+<h1> Good Morning! 👋 </h1>
 
 <a href="https://www.flaticon.com/free-icon/coding_1802977">
-         <img src="https://raw.githubusercontent.com/carloterzaghi/carloterzaghi/main/aba.png" min-width="360px" max-width="360px" width="400px"           align="right" alt="Tela">
+         <img src="https://raw.githubusercontent.com/carloterzaghi/carloterzaghi/main/aba.png" min-width="360px" max-width="360px" width="260px"           align="right" alt="Tela">
 </a>
 
-<!--
-**carloterzaghi/carloterzaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify"> 
+  Meu nome é Carlo Terzaghi Tuck Schneider, estudante de <strong> Engenharia de Controle e Automação </strong> no <strong> Instituto Mauá de Tecnologia</strong>. Mexo com programação desdos meus 16 anos, sendo a linguagem <strong> Python </strong> uma que mais usei.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+ 👨‍💻 Habilidades: <strong> Python, HTML, CSS, Dart, Flutter, C </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ 💬 Idiomas: <strong> Português, Inglês e Espanhol </strong>
+</p>
+
+<p align="left">
+ 🖥️ Ferramentas: <strong>VSCode, Arduino, Android Studio, GitHub, Git Bash, Ngrok</strong>
+</p>
+
+<p align="left">
+  <a href="mailto:carlotts16@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  <a href="https://www.linkedin.com/in/carlotts/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlotts" /></a>
+</p> 
+<hr>
+<h2> 🐱‍💻 Realizões no GitHub: <br> </h2>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=carloterzaghi&show_icons=true&theme=slateorange">
+
+         
+  ![Snake animation](https://github.com/VgsStudio/VgsStudio/blob/output/github-contribution-grid-snake.svg)
