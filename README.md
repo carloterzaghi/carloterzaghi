@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🖥️ Ferramentas: <strong>VSCode, Arduino, Android Studio, GitHub, Git Bash, Ngrok</strong>
+ 🖥️ Ferramentas: <strong>VSCode, Arduino, Android Studio, GitHub, Git Bash, Ngrok, Firebase</strong>
 </p>
 
 <p align="left">
