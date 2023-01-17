@@ -29,7 +29,7 @@
 </p> 
 <hr>
 <h2> 🐱‍💻 Realizões no GitHub: <br> </h2>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=carloterzaghi&show_icons=true&theme=slateorange">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carloterzaghi&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Anurag's github stats" /></a>
 
          
   ![Snake animation](https://github.com/carloterzaghi/carloterzaghi/blob/output/github-contribution-grid-snake.svg)
