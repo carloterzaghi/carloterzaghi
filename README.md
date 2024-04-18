@@ -18,10 +18,6 @@
  🖥️ Ferramentas: <strong>VSCode, Arduino, Android Studio, GitHub, Git Bash, Ngrok, Firebase</strong>
 </p>
 
-<a href="https://www.codewars.com/users/Mr.%20Mystery">
-         <img src="[https://raw.githubusercontent.com/carloterzaghi/carloterzaghi/main/aba.png](https://www.codewars.com/users/Mr.%20Mystery/badges/large)">
-</a>
-
 <p align="left">
   <a href="mailto:carlotts16@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -29,6 +25,10 @@
   <a href="https://www.linkedin.com/in/carlotts/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlotts" /></a>
 </p> 
+</br>
+<a href="https://www.codewars.com/users/Mr.%20Mystery">
+  <img src="https://www.codewars.com/users/Mr.%20Mystery/badges/large">
+</a>
 
 <hr>
 <h2> 🐱‍💻 Realizões no GitHub: <br> </h2>
