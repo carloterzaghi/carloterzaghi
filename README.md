@@ -141,10 +141,11 @@
 ### 📅 Recent Activity
 
 📈 Active in **Python**, **C++**, and **C** projects  
-🔄 Regular commits across automation and web development repos  
+🔄 Regular commits across automation repos  
 🎯 Focused on bridging engineering and software development  
 
 </div>
+
 ## 🎯 Current Focus Areas
 
 <div align="center">
