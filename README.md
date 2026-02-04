@@ -83,15 +83,15 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloterzaghi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloterzaghi&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carloterzaghi&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloterzaghi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloterzaghi&theme=tokyonight)
+![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carloterzaghi&theme=tokyonight)
 
 </div>
 
@@ -99,29 +99,89 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=carloterzaghi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Years Badge](https://img.shields.io/badge/Years%20Coding-6+-blue?style=for-the-badge&logo=github)
+![Commits Badge](https://img.shields.io/badge/Commits%20Monthly-Active-green?style=for-the-badge&logo=git)
+![Languages Badge](https://img.shields.io/badge/Languages-8+-orange?style=for-the-badge&logo=python)
+![Projects Badge](https://img.shields.io/badge/Projects-IoT%20%7C%20Web%20%7C%20Mobile-red?style=for-the-badge&logo=code)
+
+### 📈 Contribution Highlights
+
+🏆 **773** Total Contributions since 2020  
+🔥 **7 Day** Longest Streak (Dec 2022)  
+📊 Currently building my coding momentum  
 
 </div>
 
-## 💡 Random Dev Quote
+## 💡 Daily Inspiration
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+### 🌟 Development Philosophy
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+*"The best way to predict the future is to create it."* - Alan Kay
+
+### 🎯 Current Mindset
+**Always learning, always building, always improving!**
 
 </div>
 
-## 🔝 Top Contributed Repositories
+## 📈 Development Focus
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=carloterzaghi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+
+### 🚀 Current Projects & Learning
+
+🌱 **Learning**: Machine Learning for Industrial Automation  
+🔧 **Building**: IoT Projects with ESP32 and Raspberry Pi  
+📚 **Studying**: Advanced Control Systems  
+⚙️ **Exploring**: Python Flask Applications  
+
+### 📅 Recent Activity
+
+📈 Active in **Python**, **C++**, and **C** projects  
+🔄 Regular commits across automation and web development repos  
+🎯 Focused on bridging engineering and software development  
+
+</div>
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+| 🔧 **Engineering** | 💻 **Development** | 🤖 **Automation** |
+|:---:|:---:|:---:|
+| Control Systems | Python & Flask | IoT Projects |
+| Industrial Automation | Web Development | ESP32/Raspberry Pi |
+| Data Analysis | Mobile Apps | Embedded Systems |
+
+</div>
+
+## 📋 Quick Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=carloterzaghi&style=for-the-badge&color=blue&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/carloterzaghi?style=for-the-badge&color=green&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/carloterzaghi?style=for-the-badge&color=yellow&logo=github&label=Stars)
+
+</div>
+
+## ⚡ GitHub Overview
+
+<div align="center">
+
+| **📊 Stats** | **🔥 Streak** | **💻 Languages** |
+|:---:|:---:|:---:|
+| ![Stats](https://github-readme-stats-wheat-two-53.vercel.app/api?username=carloterzaghi&theme=tokyonight&show_icons=true&hide_border=true&count_private=false&include_all_commits=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=carloterzaghi&theme=tokyonight&hide_border=true) | ![Languages](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=carloterzaghi&theme=tokyonight&hide_border=true&layout=compact&langs_count=6) |
+
+</div>
 
 ---
 
 <div align="center">
 
 ### 🌟 Thanks for visiting my profile! 
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=carloterzaghi&icon=0&color=6)](https://visitcount.itsvg.in)
 
 **Let's connect and build something amazing together! 🚀**
 
